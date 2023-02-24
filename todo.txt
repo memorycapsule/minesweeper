@@ -1,0 +1,4 @@
+FLAGS
+END when mine pressed
+icons and animations...
+make ui look more modern

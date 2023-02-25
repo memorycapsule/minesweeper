@@ -1,4 +1,4 @@
-window_width = 1440
-window_height = 720
-grid_size = 7
-mine_count = 8
+window_width = 800
+window_height = 800
+grid_size = 18
+mine_count = 40
